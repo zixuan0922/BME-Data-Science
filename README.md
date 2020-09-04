@@ -1,5 +1,3 @@
-# hello-world
+# BME Data Science
 
-Hi all,
-
-I am Zixuan, a BME master student. Nice to meet you all :)
+Syllabus: https://github.com/bcaffo/ds4bme_intro/blob/master/syllabus.md
